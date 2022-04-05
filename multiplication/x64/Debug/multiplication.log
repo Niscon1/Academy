@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Academy\multiplication\multiplication\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  multiplication.vcxproj -> E:\Academy\multiplication\x64\Debug\multiplication.exe
